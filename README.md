@@ -33,7 +33,7 @@ The master branch is regularly built and tested, but is not guaranteed to be com
 - `make`
 
 
-##About bitcoin2network project
+## About bitcoin2network project
 
 **bitcoin2network** is an effort to create a privacy-centric, multi-tier, blockchain based ecosystem that is self-regulating and adaptive.
 
@@ -91,17 +91,17 @@ bitcoin2network is a brain-child ambitious project of a tech-savy team that poss
 
 ## B2N Coin Allocation:	
 								
-    Discription | Per% | Amount in B2N
-    ----------------- | --------------- | ----------------------
-    Minable Supply | 95.00% | 19,950,000,000
-    Social Media Bounties | 0.50% | 105,000,000
-    Merchants Bounties | 1.00% | 210,000,000
-    Promotional Bounties | 0.50% | 105,000,000
-    R&D Bounties | 0.50% | 105,000,000
-    Decentralized Exchange Fund | 0.75% | 157,500,000
-    Project Development | 1.00% | 20,000,000
-    Advisors | 0.25% | 52,500,000
-    Founders & Team | 0.50% | 105,000,000
+Discription | Per% | Amount in B2N
+----------------- | --------------- | ----------------------
+Minable Supply | 95.00% | 19,950,000,000
+Social Media Bounties | 0.50% | 105,000,000
+Merchants Bounties | 1.00% | 210,000,000
+Promotional Bounties | 0.50% | 105,000,000
+R&D Bounties | 0.50% | 105,000,000
+Decentralized Exchange Fund | 0.75% | 157,500,000
+Project Development | 1.00% | 20,000,000
+Advisors | 0.25% | 52,500,000
+Founders & Team | 0.50% | 105,000,000
  
 
 

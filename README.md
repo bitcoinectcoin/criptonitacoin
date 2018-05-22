@@ -99,7 +99,7 @@ Merchants Bounties | 1.00% | 210,000,000
 Promotional Bounties | 0.50% | 105,000,000
 R&D Bounties | 0.50% | 105,000,000
 Decentralized Exchange Fund | 0.75% | 157,500,000
-Project Development | 1.00% | 20,000,000
+Project Development | 1.00% | 210,000,000
 Advisors | 0.25% | 52,500,000
 Founders & Team | 0.50% | 105,000,000
  

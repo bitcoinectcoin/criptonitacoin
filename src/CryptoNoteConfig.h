@@ -104,7 +104,7 @@ namespace parameters {
 } // parameters
 
 #define CRYPTONOTE_NAME                                 "b2n"
-#define CRYPTONOTE_GENESIS_TX                           "013c01ff000180c8afa025029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd0880712101ff43d916a7fa8dab01543531b67d5adee8f00b45b2ba9e2d3b0aa259a2101a5e"
+#define CRYPTONOTE_GENESIS_TX                           "013c01ff0001c09482f803021c35e6e76586e05bccd0b48112ec0065a5f834c6c76131b17ab2d308df934a6a210130090e9cbf0f61dfd583db08ec93545e66533aed04817fd4148d2e5a1abf39b4"
 
 
 #define TRANSACTION_VERSION_1                           1

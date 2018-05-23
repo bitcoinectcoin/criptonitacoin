@@ -462,7 +462,7 @@ Difficulty Currency::nextDifficulty(uint8_t version, uint32_t blockIndex, std::v
 
 //diff testing code so cpu miners can advance chain.      
 //printf("blockIndex:%lu\n",blockIndex);
-//if (blockIndex >= 39400 && blockIndex < (UPGRADE_HEIGHT_V5-1)) {return 1500;}
+if (blockIndex >= 2 && blockIndex < (UPGRADE_HEIGHT_V5-1)) {return 1500;}
 
 // easy diff for transition
 if (blockIndex >= (UPGRADE_HEIGHT_V5-1) && blockIndex <= (UPGRADE_HEIGHT_V5+100) ) {return 4000000;}

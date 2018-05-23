@@ -88,8 +88,8 @@ namespace parameters {
 #define KEY_IMAGE_CHECKING_BLOCK_INDEX                  0
 #define UPGRADE_HEIGHT_V2                               1
 #define UPGRADE_HEIGHT_V3                               2
-#define UPGRADE_HEIGHT_V4                               1300
-#define UPGRADE_HEIGHT_V5                               1400
+#define UPGRADE_HEIGHT_V4                               10
+#define UPGRADE_HEIGHT_V5                               20
 
 #define UPGRADE_VOTING_THRESHOLD                        90
 #define UPGRADE_VOTING_WINDOW                           EXPECTED_NUMBER_OF_BLOCKS_PER_DAY
@@ -142,10 +142,10 @@ namespace parameters {
 
 
 const std::initializer_list<const char*> SEED_NODES {
-  "13.57.118.180:19636",
-  "13.127.159.67:19636",
-  "35.177.237.71:19636",
-  "35.182.213.80:19636",
+  "52.52.201.149:19636",
+  "13.232.76.85:19636",
+  "52.56.157.200:19636",
+  "35.182.112.55:19636",
   
 };
 
@@ -160,8 +160,11 @@ __attribute__((unused))
 
 const std::initializer_list<CheckpointData> CHECKPOINTS {
 
-    //{ 20,"af40dc96376b40fe69c3baf9151b90e459dffdea52704bba0097a25f8a4b8277" },
-    //{ 40,"c29cbebce6053c3744b1a71693f8604e175507434184aaa69b5837e420d9fefb" },
+    { 0,"18a173e1dee0a6cbc80b9d62d157eb978f418b12888e1cb63a80a4084dcba915" },
+    { 1,"fb9dd33e69b5dc9ee6869e936f3933ef68b9f64922e4366ce2fe11dc23f3c949" },
+    { 2"8a836abc67927eb83b67cc57baacc7ee0edfb1ff6123505b648394aa805ad640" },
+    { 3,"d6b1940bc75624f6692b66f7a10d5899043ba44711833be1e97e47b0799ea997" },
+
 
 	
 };

@@ -92,7 +92,7 @@ bitcoin2network is a brain-child ambitious project of a tech-savvy team that pos
 
 ## B2N Coin Allocation:	
 								
-Discription | Per% | Amount in B2N
+Description | Per% | Amount in B2N
 ----------------- | --------------- | ----------------------
 Minable Supply | 95.00% | 19,950,000,000
 Social Media Bounties | 0.50% | 105,000,000

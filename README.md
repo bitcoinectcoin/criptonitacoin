@@ -45,11 +45,11 @@ Therefore, an Innovative Strategy to aide **bitcoin2network** project developmen
 
 **bitcoin2network** protocol is an enhancement over the original CryptoNote protocol. It is a privacy-centric, secure, untraceable, decentralised digital currency that enables users to process private instant payments from anywhere in the world. bitcoin2network uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. **bitcoin2network** is the name of an open source software which enables the use of this currency.
 
-**bitcoin2network** will create Payment Gateways for integration into e-commerce systems and services retail websites to accept digital currency payments, thus giving digital currency a real world use case.
+**bitcoin2network** will create Payment Gateways for integration into e-commerce systems and services retail websites to accept digital currency payments, thus giving digital currency a real-world use case.
 
 In addition, digital wallets for storage of cryptocurrencies will be made available on our exchange, as well as exclusive applications for Android, iOS, Linux and Windows platforms.
 
-bitcoin2network is a brain-child ambitious project of a tech-savy team that possess the required skillset to make this project reality.
+bitcoin2network is a brain-child ambitious project of a tech-savvy team that possess the required skillset to make this project reality.
 
 > For more information, as well as an immediately useable binary and GUI wallet version of the **bitcoin2network** software, see https://bitcoin2.network.
 
@@ -59,21 +59,22 @@ bitcoin2network is a brain-child ambitious project of a tech-savy team that poss
 
 ## Facts about bitcoin2network
 
-* It Is An Open Source And Decentralized Blockchain Ecosystem That Liberates People From Dishonest Traditional Global Financial Systems.
+* It is an open source and decentralized blockchain ecosystem that liberates people from dishonest traditional global financial systems.
 
-* It Provides Cross-Border Digital Payment Gateways That Eliminate Central Control And The Need For Third-Parties.
+* It provides cross-border digital payment gateways that eliminate central control and the need for third-parties.
 
-* It Facilitates Confidential Transactions By Using Ring Signature Technology And Conveniently Ensures All Network Transactions Are Completely Secure And Anonymous.
+* It facilitates confidential transactions by using ring signature technology and conveniently ensures all network transactions are completely secure and anonymous.
 
-* It Follows The Egalitarian Approach Of Cryptonote And Chose To Use The Protocol Because It Resonates Well With B2N Vision To Ensure A Progressive And Democratic Digital Ecosystem.
+* It follows the egalitarian approach of CryptoNote and chose to use the protocol because it resonates well with b2n vision to ensure a progressive and democratic digital ecosystem.
 
-* It Provides Various Digital And Retail Solutions For Real World Businesses.
+* It provides various digital and retail solutions for real world businesses.
 
-* B2N Fees Are Strategically Low To Provide An Ease Of Use For All Individuals Of The B2N Ecosystem.
+* B2n fees are strategically low to provide an ease of use for all individuals of the b2n ecosystem.
 
-* There Is A Maximum Supply Of 21 Billion B2N That Will Be Mined In Approximately 334 Years.
+* There is a maximum supply of 21 billion b2n that will be mined in approximately 334 years.
 
-* It Introduces A Unique Way For Individuals To Earn B2N Via Commmunity Building Events
+*It introduces a unique way for individuals to earn b2n via community building events
+
 
 
 ## Specifications
@@ -81,7 +82,7 @@ bitcoin2network is a brain-child ambitious project of a tech-savy team that poss
 * **Name:**    _bitcoin2network_
 * **Ticker:**   _B2N_
 * **PoW Algorithm:**    _CryptoNight-B2N_
-* **Block time:**  _90 sec_ 
+* **Block time:**  _90 secs_ 
 * **Maturity of mined coins:**    _60 blocks_
 * **Difficulty Re-target:**    _each block_ (approx. 90 seconds)
 * **Address letter:**    _btc2_

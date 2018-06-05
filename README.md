@@ -73,7 +73,7 @@ bitcoin2network is a brain-child ambitious project of a tech-savvy team that pos
 
 * There is a maximum supply of 21 billion b2n that will be mined in approximately 334 years.
 
-*It introduces a unique way for individuals to earn b2n via community building events
+* It introduces a unique way for individuals to earn b2n via community building events
 
 
 

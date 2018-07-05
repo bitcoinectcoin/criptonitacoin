@@ -142,14 +142,17 @@ namespace parameters {
 
 
 const std::initializer_list<const char*> SEED_NODES {
-  "52.52.201.149:19636",
-  "13.232.76.85:19636",
-  "52.56.157.200:19636",
-  "35.182.112.55:19636",
-  "54.233.70.100:19636",
-  "175.41.229.16:19636",
-  "138.197.76.118:19636",
-  
+
+    "node1.bitcoin2.network:19636",
+    "node2.bitcoin2.network:19636",
+    "node3.bitcoin2.network:19636",
+    "node4.bitcoin2.network:19636",
+    "node5.bitcoin2.network:19636",
+    "node6.bitcoin2.network:19636",
+    "node7.bitcoin2.network:19636",
+    "node8.bitcoin2.network:19636",
+    "node9.bitcoin2.network:19636",
+
 };
 
 struct CheckpointData {
@@ -176,6 +179,12 @@ const std::initializer_list<CheckpointData> CHECKPOINTS {
     { 10801,"69a089520f23056ad7bab4f30d51eb4e04d7c60a42c409a212cb07046683132a" },
     { 12821,"e8153e76cb61ed094d3ddb6dc9dd7cb2b0628b2764b2c48f1a717f7bdc2bd549" },
     { 15851,"bd1262f8b10ddf661acacd79ffdd072fed0cabcd4c42220b3236b7006160d6f9" },
+    { 16861,"ea24eca43885136003b341d114fa55db0b9c35a76bb7df32febbc3c8d4893d76" },
+    { 17871,"5c94263ee7b17750f88d09b341e2a359b84ba7ac193fe72ca31efcb168cb5482" },
+    { 18881,"7666f8d4cfbbc58fecbd77101bf3c21c846329f2b60edb12ae8d1774e6f9cb44" },
+    { 20802,"e859c98bb2c728e4329e9fae25754521088187012b1dce75d815ce3ddd1e67e6" },
+    { 24842,"53e57d05edfc97ce7abd78cd3962847653ee449aec88527d85285dadcc89dad8" },
+    { 26862,"81f0e11ac16597991aa4b366d335705832297f1d3d3a97cc7a9ee524ce671b11" },
 
 
 };

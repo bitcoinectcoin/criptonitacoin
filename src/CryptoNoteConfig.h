@@ -48,11 +48,11 @@ namespace parameters {
 #define CRYPTONOTE_COINBASE_BLOB_RESERVED_SIZE          600
 #define CRYPTONOTE_MONEY_DECIMAL_POINT                  8
 #define CRYPTONOTE_MONEY_DECIMAL_UNITS                  (uint64_t)pow(10, CRYPTONOTE_MONEY_DECIMAL_POINT)
-#define MINIMUM_FEE                                     (uint64_t)pow(10, CRYPTONOTE_MONEY_DECIMAL_POINT / 4)
-#define DEFAULT_FEE                                     (uint64_t)pow(10, CRYPTONOTE_MONEY_DECIMAL_POINT / 4)
-#define DEFAULT_DUST_THRESHOLD                          MINIMUM_FEE
+#define MINIMUM_FEE                                     (uint64_t)pow(10, CRYPTONOTE_MONEY_DECIMAL_POINT - 2)
+#define DEFAULT_FEE                                     (uint64_t)pow(10, CRYPTONOTE_MONEY_DECIMAL_POINT - 1)
+#define DEFAULT_DUST_THRESHOLD                          (uint64_t)pow(10, CRYPTONOTE_MONEY_DECIMAL_POINT / 4)
 
-#define MAX_TRANSACTION_SIZE_LIMIT                      128000 
+#define MAX_TRANSACTION_SIZE_LIMIT                      256000 
 #define MEMPOOL_POLLING_INTERVAL                        60 // how often to clean mempool
 
 #define DIFFICULTY_TARGET                               90
@@ -79,7 +79,7 @@ namespace parameters {
 
 #define CRYPTONOTE_MEMPOOL_TX_LIVETIME                  60 * 60 * 24
 #define CRYPTONOTE_MEMPOOL_TX_FROM_ALT_BLOCK_LIVETIME   CRYPTONOTE_MEMPOOL_TX_LIVETIME * 7
-#define CRYPTONOTE_NUMBER_OF_PERIODS_TO_FORGET_TX_DELETED_FROM_POOL 7
+#define CRYPTONOTE_NUMBER_OF_PERIODS_TO_FORGET_TX_DELETED_FROM_POOL 2
 
 
 #define FUSION_TX_MIN_INPUT_COUNT                       12
@@ -185,6 +185,10 @@ const std::initializer_list<CheckpointData> CHECKPOINTS {
     { 20802,"e859c98bb2c728e4329e9fae25754521088187012b1dce75d815ce3ddd1e67e6" },
     { 24842,"53e57d05edfc97ce7abd78cd3962847653ee449aec88527d85285dadcc89dad8" },
     { 26862,"81f0e11ac16597991aa4b366d335705832297f1d3d3a97cc7a9ee524ce671b11" },
+    { 28882,"227b8209f2d41ff4d7a815dd8bd9132c6cd81421dbc099fb3bd800aef1812e5c" },
+    { 30803,"1c6b62afaff3acecabb12bc7babac9708a5e5676c726a0bd0e030e9911e2753b" },
+    { 33833,"c0a68bb337d84f528e81ca42244dfeb893fdf9c0ceae042951d975c62ad29e45" },
+    { 35853,"732df381a5afff75535d6e35a7281e445d9bb61db231b5b49af32e32303334e6" },
 
 
 };

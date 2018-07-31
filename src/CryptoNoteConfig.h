@@ -21,7 +21,7 @@ namespace parameters {
 #define CRYPTONOTE_MAX_BLOCK_NUMBER                     500000000
 #define CRYPTONOTE_MAX_BLOCK_BLOB_SIZE                  500000000
 #define CRYPTONOTE_MAX_TX_SIZE                          1000000000
-#define CRYPTONOTE_PUBLIC_ADDRESS_BASE58_PREFIX         2345936 // starts with "btc2f"
+#define CRYPTONOTE_PUBLIC_ADDRESS_BASE58_PREFIX         0x2756 // starts with "btc2f"
 #define CRYPTONOTE_MINED_MONEY_UNLOCK_WINDOW            60
 #define CRYPTONOTE_BLOCK_FUTURE_TIME_LIMIT              360
 
@@ -103,7 +103,7 @@ namespace parameters {
 
 } // parameters
 
-#define CRYPTONOTE_NAME                                 "b2n"
+#define CRYPTONOTE_NAME                                 "criptonitacoin"
 #define CRYPTONOTE_GENESIS_TX                           "013c01ff0001c09482f803021c35e6e76586e05bccd0b48112ec0065a5f834c6c76131b17ab2d308df934a6a210130090e9cbf0f61dfd583db08ec93545e66533aed04817fd4148d2e5a1abf39b4"
 
 
@@ -143,15 +143,9 @@ namespace parameters {
 
 const std::initializer_list<const char*> SEED_NODES {
 
-    "node1.bitcoin2.network:19636",
-    "node2.bitcoin2.network:19636",
-    "node3.bitcoin2.network:19636",
-    "node4.bitcoin2.network:19636",
-    "node5.bitcoin2.network:19636",
-    "node6.bitcoin2.network:19636",
-    "node7.bitcoin2.network:19636",
-    "node8.bitcoin2.network:19636",
-    "node9.bitcoin2.network:19636",
+    "192.168.7.254:19636",
+    "186.216.215.118:19636",
+   
 
 };
 
